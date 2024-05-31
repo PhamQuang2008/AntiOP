@@ -1,0 +1,12 @@
+Ops:
+- Notch
+Commands:
+- ban %player% You are not in OP list :3
+- broadcast %player% Banned by AntiOP
+DisabledCommands:
+- op
+- deop
+- ban ArtlieX
+- stop
+- plugman
+Updater: true

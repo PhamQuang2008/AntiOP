@@ -1,0 +1,9 @@
+name: AntiOP
+version: 2.9
+main: net.ArtlieX.AntiOP.Main
+description: AntiOP Plugin
+author: ArtlieX
+commands:
+  antiop:
+    usage: /<command>
+    description: reload config
