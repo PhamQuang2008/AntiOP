@@ -1,3 +1,4 @@
+[![Discord](https://img.shields.io/discord/1247029974154612828.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/HsSUVGSc3c)
 # AntiOP
 - 💥 Turn off OP in Minecraft server, completely preventing HackOP usage.
 - 💖 Plugin created by QuangDev05 of Nexus Studio.
